@@ -7,22 +7,32 @@ public:
     string makeFancyString(string s) {
         if (s.empty()) return s;
         
+        queue<char> qu;
         string result;
-        char prev = s[0];
-        int count = 1;
-        result += s[0];
+        char prev;
+        int count = 0;
         
-        for (int i = 1; i < s.size(); i++) {
-            if (prev == s[i]) {
-                count++;
-                if (count < 3) { 
-                    result += s[i];
-                }
+        for (int i = 0; i < s.size(); i++) {
+            if (i == 0) {
+                qu.push(s[0]);
+                prev = s[0];
+                count = 1;
             } else {
-                count = 1;  
-                result += s[i];
-                prev = s[i];  
+                if (prev == s[i]) {
+                    count++;
+                    if (count <= 2) { 
+                        qu.push(s[i]);
+                    }
+                } else {
+                    count = 1; 
+                    prev = s[i]; 
+                    qu.push(s[i]); 
+                }
             }
+        }
+        while (!qu.empty()) { 
+            result += qu.front(); 
+            qu.pop();
         }
         
         return result;

@@ -38,7 +38,7 @@ The answer will always be **unique**.
   </a>
 </p>
 
-🔗 **[Click here to edit/view in Excalidraw](https://excalidraw.com/#json=KkucYifcPXmQOnUR0NNSs,LWNBHqAdbkUOpl2mJxCAsQ)**
+🔗 **[Click here to edit/view in Excalidraw](./image/1957.png)**
 
 ---
 

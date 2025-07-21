@@ -34,11 +34,14 @@ The answer will always be **unique**.
 
 <p align="center">
   <a href="https://excalidraw.com/#json=KkucYifcPXmQOnUR0NNSs,LWNBHqAdbkUOpl2mJxCAsQ">
-    <img src="./fancy-string-visual.png" alt="Fancy String Excalidraw" width="500"/>
+    <img src="./1957-delete-characters-to-make-fancy-string/image/1957.png
+" alt="Fancy String Excalidraw" width="500"/>
   </a>
 </p>
 
-🔗 **[Click here to edit/view in Excalidraw](./image/1957.png)**
+
+🔗 **[Click here to edit/view in Excalidraw](./1957-delete-characters-to-make-fancy-string/image/1957.png
+)**
 
 ---
 

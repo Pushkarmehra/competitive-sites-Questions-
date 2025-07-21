@@ -53,7 +53,7 @@ Return *the final string after the deletion*. The answer will always be **unique
   
 ### Algorithm Flow Demonstration
 
-<img src="./1957-delete-characters-to-make-fancy-string/image/1957.png" alt="Delete Characters to Make Fancy String - Visual Algorithm" width="80%"/>
+<img src="./image/1957.png" alt="Delete Characters to Make Fancy String - Visual Algorithm" />
 
 **🔗 [View/Edit Visualization](https://excalidraw.com/#json=KkucYifcPXmQOnUR0NNSs,LWNBHqAdbkUOpl2mJxCAsQ)**
 
@@ -95,9 +95,5 @@ Return *the final string after the deletion*. The answer will always be **unique
 
 <div align="center">
 
-### 💡 **Happy Coding!** 💡
-
-[![Stars](https://img.shields.io/github/stars/yourusername/leetcode-solutions?style=social)](https://github.com/pushkarmehra/leetcode-solutions)
-[![Follow](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/pushkarmehra)
 
 </div>

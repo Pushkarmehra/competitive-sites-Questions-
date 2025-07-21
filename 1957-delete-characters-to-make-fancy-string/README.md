@@ -1,43 +1,47 @@
-<h2><a href="https://leetcode.com/problems/delete-characters-to-make-fancy-string/?envType=daily-question&envId=2025-07-21">1957. Delete Characters to Make Fancy String</a></h2><h3>Easy</h3><hr><p>A <strong>fancy string</strong> is a string where no <strong>three</strong> <strong>consecutive</strong> characters are equal.</p>
+<h2 align="center">
+  <a href="https://leetcode.com/problems/delete-characters-to-make-fancy-string/?envType=daily-question&envId=2025-07-21">
+    1957. Delete Characters to Make Fancy String
+  </a>
+</h2>
 
-<p>Given a string <code>s</code>, delete the <strong>minimum</strong> possible number of characters from <code>s</code> to make it <strong>fancy</strong>.</p>
+<p align="center">
+  <strong>Easy • String Manipulation • Two-Pointer</strong>
+</p>
 
-<p>Return <em>the final string after the deletion</em>. It can be shown that the answer will always be <strong>unique</strong>.</p>
+---
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+### 📝 Problem Statement
+A **fancy string** is a string where no **three consecutive** characters are equal.
 
-<pre>
-<strong>Input:</strong> s = &quot;le<u>e</u>etcode&quot;
-<strong>Output:</strong> &quot;leetcode&quot;
-<strong>Explanation:</strong>
-Remove an &#39;e&#39; from the first group of &#39;e&#39;s to create &quot;leetcode&quot;.
-No three consecutive characters are equal, so return &quot;leetcode&quot;.
-</pre>
+Given a string `s`, delete the **minimum** possible number of characters from `s` to make it **fancy**.
 
-<p><strong class="example">Example 2:</strong></p>
+Return *the final string after the deletion*.  
+The answer will always be **unique**.
 
-<pre>
-<strong>Input:</strong> s = &quot;<u>a</u>aab<u>aa</u>aa&quot;
-<strong>Output:</strong> &quot;aabaa&quot;
-<strong>Explanation:</strong>
-Remove an &#39;a&#39; from the first group of &#39;a&#39;s to create &quot;aabaaaa&quot;.
-Remove two &#39;a&#39;s from the second group of &#39;a&#39;s to create &quot;aabaa&quot;.
-No three consecutive characters are equal, so return &quot;aabaa&quot;.
-</pre>
+---
 
-<p><strong class="example">Example 3:</strong></p>
+### ✅ Examples
 
-<pre>
-<strong>Input:</strong> s = &quot;aab&quot;
-<strong>Output:</strong> &quot;aab&quot;
-<strong>Explanation:</strong> No three consecutive characters are equal, so return &quot;aab&quot;.
-</pre>
+| **Input** | **Output** | **Explanation** |
+|-----------|-----------|-----------------|
+| `s = "leeetcode"` | `"leetcode"` | Removed one `e` |
+| `s = "aaabaaaa"` | `"aabaa"` | Removed three `a`s |
+| `s = "aab"` | `"aab"` | Already fancy |
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+---
 
-<ul>
-	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>s</code> consists only of lowercase English letters.</li>
-</ul>
+### 📌 Visualization
+
+<p align="center">
+  <a href="https://excalidraw.com/#json=KkucYifcPXmQOnUR0NNSs,LWNBHqAdbkUOpl2mJxCAsQ">
+    <img src="./fancy-string-visual.png" alt="Fancy String Excalidraw" width="500"/>
+  </a>
+</p>
+
+🔗 **[Click here to edit/view in Excalidraw](https://excalidraw.com/#json=KkucYifcPXmQOnUR0NNSs,LWNBHqAdbkUOpl2mJxCAsQ)**
+
+---
+
+### 🔥 Constraints
+- `1 <= s.length <= 10^5`
+- `s` consists only of lowercase English letters.

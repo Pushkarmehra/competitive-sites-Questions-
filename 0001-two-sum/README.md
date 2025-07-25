@@ -1,41 +1,89 @@
-<h2><a href="https://leetcode.com/problems/two-sum/">1. Two Sum</a></h2><h3>Easy</h3><hr><p>Given an array of integers <code>nums</code>&nbsp;and an integer <code>target</code>, return <em>indices of the two numbers such that they add up to <code>target</code></em>.</p>
+<div align="center">
+  
+# #1 Two Sum
+### [LeetCode Problem #1](https://leetcode.com/problems/two-sum/)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
+![Topics](https://img.shields.io/badge/Topics-Array%2C%20Hash%20Table-blue?style=for-the-badge)
+</div>
 
-<p>You may assume that each input would have <strong><em>exactly</em> one solution</strong>, and you may not use the <em>same</em> element twice.</p>
+---
 
-<p>You can return the answer in any order.</p>
+## 📝 Problem Statement
+Given an array of integers `nums` and an integer `target`, return **indices of the two numbers** such that they add up to `target`.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
 
-<pre>
-<strong>Input:</strong> nums = [2,7,11,15], target = 9
-<strong>Output:</strong> [0,1]
-<strong>Explanation:</strong> Because nums[0] + nums[1] == 9, we return [0, 1].
-</pre>
+You can return the answer in any order.
 
-<p><strong class="example">Example 2:</strong></p>
+---
 
-<pre>
-<strong>Input:</strong> nums = [3,2,4], target = 6
-<strong>Output:</strong> [1,2]
-</pre>
+## ✨ Examples
+<table align="center">
+<tr>
+<th>🔸 Input</th>
+<th>🔸 Output</th>
+<th>🔸 Explanation</th>
+</tr>
+<tr>
+<td><code>nums = [2,7,11,15], target = 9</code></td>
+<td><code>[0,1]</code></td>
+<td>Because <code>nums[0] + nums[1] == 9</code></td>
+</tr>
+<tr>
+<td><code>nums = [3,2,4], target = 6</code></td>
+<td><code>[1,2]</code></td>
+<td>Because <code>nums[1] + nums[2] == 6</code></td>
+</tr>
+<tr>
+<td><code>nums = [3,3], target = 6</code></td>
+<td><code>[0,1]</code></td>
+<td>Because <code>nums[0] + nums[1] == 6</code></td>
+</tr>
+</table>
 
-<p><strong class="example">Example 3:</strong></p>
+---
 
-<pre>
-<strong>Input:</strong> nums = [3,3], target = 6
-<strong>Output:</strong> [0,1]
-</pre>
+## 🚀 Algorithm Approach
+### Key Insight
+> Use a hash map to store previously seen numbers and their indices for O(1) lookup
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+### **Approach 1: Brute Force**
+1. **Check all pairs** using nested loops
+2. **Return indices** when sum equals target
+3. **Time:** O(n²), **Space:** O(1)
 
-<ul>
-	<li><code>2 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
-	<li><code>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></code></li>
-	<li><strong>Only one valid answer exists.</strong></li>
-</ul>
+### **Approach 2: Hash Map (Optimal)**
+1. **Initialize** empty hash map
+2. **For each element:**
+   - Calculate complement = target - current element
+   - If complement exists in map → return [map[complement], current_index]
+   - Store current element and index in map
+3. **Return** the pair of indices
 
-<p>&nbsp;</p>
-<strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
+---
+
+## 📊 Complexity Analysis
+| Approach | Time Complexity | Space Complexity |
+|----------|----------------|------------------|
+| **Brute Force** | `O(n²)` | `O(1)` |
+| **Hash Map** | `O(n)` | `O(n)` |
+
+---
+
+## 🔧 Constraints
+- `2 <= nums.length <= 10⁴`
+- `-10⁹ <= nums[i] <= 10⁹`
+- `-10⁹ <= target <= 10⁹`
+- **Only one valid answer exists**
+
+---
+
+## 💡 Follow-up
+**Can you come up with an algorithm that is less than O(n²) time complexity?**
+
+*Answer: Yes! The hash map approach achieves O(n) time complexity.*
+
+---
+
+<div align="center">
+</div>

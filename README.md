@@ -27,6 +27,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Array, Hash Table | [C++](./solutions/001_two_sum.cpp) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Math | [C++](./solutions/009_palindrome_number.cpp) |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | String | [C++](./solutions/1957_fancy_string.cpp) |
+| 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Array, Hash Table, Greedy | [C++](./solutions/3487_max_unique_subarray.cpp) |
 
 ---
 
@@ -101,6 +102,14 @@ public:
 
 **Recommended:** Direct Check approach for cleaner logic
 
+### Problem #3487: Maximum Unique Subarray Sum After Deletion
+| Approach | Time Complexity | Space Complexity | Description |
+|----------|----------------|------------------|-------------|
+| Hash Array (Optimized) | O(n) | O(1) | Fixed-size hash array for unique elements |
+| Set-based | O(n log n) | O(n) | Using set to track unique elements |
+
+**Recommended:** Hash Array approach for optimal performance with fixed constraints
+
 ---
 
 ## 🎨 Key Features
@@ -117,16 +126,17 @@ public:
 ## 📈 Progress Tracking
 
 ```
-Total Problems: 3
-├── Easy: 3 ████████████████████ 100%
+Total Problems: 4
+├── Easy: 4 ████████████████████ 100%
 ├── Medium: 0 ░░░░░░░░░░░░░░░░░░░░ 0%
 └── Hard: 0 ░░░░░░░░░░░░░░░░░░░░ 0%
 
 Topics Covered:
-├── Array ████████████████████ 1
-├── Hash Table ████████████████████ 1  
+├── Array ████████████████████ 2
+├── Hash Table ████████████████████ 2
 ├── String ████████████████████ 1
 ├── Math ████████████████████ 1
+├── Greedy ████████████████████ 1
 └── Two Pointers ░░░░░░░░░░░░░░░░░░░░ 0
 ```
 
@@ -159,6 +169,24 @@ Contributions are welcome! Here's how you can help:
 - Add test cases in comments
 - Use descriptive variable names
 - Optimize for both time and space when possible
+
+---
+
+## 📝 Solution Highlights
+
+### Problem #3487: Maximum Unique Subarray Sum After Deletion
+
+**Key Insight:** Since we can delete any elements, we want to keep only positive unique elements. If no positive elements exist, we keep the maximum element.
+
+**Algorithm:**
+1. Use a fixed-size hash array (size 201) to handle the constraint -100 ≤ nums[i] ≤ 100
+2. First pass: Mark unique elements and sum positive ones
+3. If sum is 0 (no positive elements), find the maximum unique element
+
+**Edge Cases:**
+- All elements are negative or zero
+- All elements are the same
+- Mix of positive and negative duplicates
 
 ---
 

@@ -25,6 +25,7 @@
 | # | Problem | Difficulty | Topics | Solution |
 |---|---------|------------|--------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Array, Hash Table | [C++](./solutions/001_two_sum.cpp) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | Math | [C++](./solutions/009_palindrome_number.cpp) |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | ![Easy](https://img.shields.io/badge/Easy-brightgreen) | String | [C++](./solutions/1957_fancy_string.cpp) |
 
 ---
@@ -84,6 +85,14 @@ public:
 
 **Recommended:** Hash Map approach for optimal performance
 
+### Problem #9: Palindrome Number
+| Approach | Time Complexity | Space Complexity | Description |
+|----------|----------------|------------------|-------------|
+| String Conversion | O(log n) | O(log n) | Convert to string and compare |
+| Integer Reversal | O(log n) | O(1) | Reverse integer and compare with original |
+
+**Recommended:** Integer Reversal approach for optimal space complexity
+
 ### Problem #1957: Delete Characters to Make Fancy String
 | Approach | Time Complexity | Space Complexity | Description |
 |----------|----------------|------------------|-------------|
@@ -108,8 +117,8 @@ public:
 ## 📈 Progress Tracking
 
 ```
-Total Problems: 2
-├── Easy: 2 ████████████████████ 100%
+Total Problems: 3
+├── Easy: 3 ████████████████████ 100%
 ├── Medium: 0 ░░░░░░░░░░░░░░░░░░░░ 0%
 └── Hard: 0 ░░░░░░░░░░░░░░░░░░░░ 0%
 
@@ -117,6 +126,7 @@ Topics Covered:
 ├── Array ████████████████████ 1
 ├── Hash Table ████████████████████ 1  
 ├── String ████████████████████ 1
+├── Math ████████████████████ 1
 └── Two Pointers ░░░░░░░░░░░░░░░░░░░░ 0
 ```
 

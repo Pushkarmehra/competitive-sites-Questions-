@@ -1,36 +1,137 @@
-<h2><a href="https://leetcode.com/problems/palindrome-number/">9. Palindrome Number</a></h2><h3>Easy</h3><hr><p>Given an integer <code>x</code>, return <code>true</code><em> if </em><code>x</code><em> is a </em><span data-keyword="palindrome-integer"><em><strong>palindrome</strong></em></span><em>, and </em><code>false</code><em> otherwise</em>.</p>
+<div align="center">
+  
+# #9 Palindrome Number
+### [LeetCode Problem #9](https://leetcode.com/problems/palindrome-number/)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
+![Topics](https://img.shields.io/badge/Topics-Math%2C%20Two%20Pointers-blue?style=for-the-badge)
+</div>
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+---
 
-<pre>
-<strong>Input:</strong> x = 121
-<strong>Output:</strong> true
-<strong>Explanation:</strong> 121 reads as 121 from left to right and from right to left.
-</pre>
+## 📝 Problem Statement
+Given an integer `x`, return `true` **if** `x` **is a palindrome**, and `false` **otherwise**.
 
-<p><strong class="example">Example 2:</strong></p>
+A **palindrome** is a number that reads the same forward and backward.
 
-<pre>
-<strong>Input:</strong> x = -121
-<strong>Output:</strong> false
-<strong>Explanation:</strong> From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
-</pre>
+---
 
-<p><strong class="example">Example 3:</strong></p>
+## ✨ Examples
+<table align="center">
+<tr>
+<th>🔸 Input</th>
+<th>🔸 Output</th>
+<th>🔸 Explanation</th>
+</tr>
+<tr>
+<td><code>x = 121</code></td>
+<td><code>true</code></td>
+<td>121 reads as 121 from left to right and from right to left</td>
+</tr>
+<tr>
+<td><code>x = -121</code></td>
+<td><code>false</code></td>
+<td>From left to right: -121. From right to left: 121-. Not a palindrome</td>
+</tr>
+<tr>
+<td><code>x = 10</code></td>
+<td><code>false</code></td>
+<td>Reads 01 from right to left. Not a palindrome</td>
+</tr>
+</table>
 
-<pre>
-<strong>Input:</strong> x = 10
-<strong>Output:</strong> false
-<strong>Explanation:</strong> Reads 01 from right to left. Therefore it is not a palindrome.
-</pre>
+---
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+## 🚀 Algorithm Approach
 
-<ul>
-	<li><code>-2<sup>31</sup>&nbsp;&lt;= x &lt;= 2<sup>31</sup>&nbsp;- 1</code></li>
-</ul>
+### Key Insight
+> We can solve this without converting to string by reversing only half the number
 
-<p>&nbsp;</p>
-<strong>Follow up:</strong> Could you solve it without converting the integer to a string?
+### **Approach 1: String Conversion**
+1. **Convert** integer to string
+2. **Use two pointers** from start and end
+3. **Compare characters** moving inward
+4. **Time:** O(log n), **Space:** O(log n)
+
+### **Approach 2: Mathematical Reversal (Optimal)**
+1. **Handle edge cases:** negative numbers and multiples of 10 (except 0)
+2. **Reverse half the number:**
+   - Extract digits from right using modulo
+   - Build reversed number
+   - Stop when original ≤ reversed
+3. **Check palindrome:**
+   - Even digits: `original == reversed`
+   - Odd digits: `original == reversed / 10`
+4. **Time:** O(log n), **Space:** O(1)
+
+### **Approach 3: Full Number Reversal**
+1. **Reverse entire number** mathematically
+2. **Compare** with original
+3. **Handle overflow** carefully
+4. **Time:** O(log n), **Space:** O(1)
+
+---
+
+## 🎨 Visualization
+
+<div align="center">
+  
+### Half-Reversal Algorithm Demonstration
+```
+Example: x = 1221
+
+Step 1: x = 1221, reversed = 0
+Step 2: x = 122,  reversed = 1    (1221 % 10 = 1)
+Step 3: x = 12,   reversed = 12   (122 % 10 = 2)
+Step 4: x = 1,    reversed = 121  (12 % 10 = 2)
+
+Since x (1) < reversed (121), we stop.
+For even digits: x should equal reversed / 10
+1 == 121 / 10 = 12? No → 1 == 12? No
+
+Wait, let me recalculate:
+x = 1221, reversed = 0
+x = 122, reversed = 1
+x = 12, reversed = 12  
+Now x (12) == reversed (12) → Palindrome!
+```
+
+</div>
+
+---
+
+## 📊 Complexity Analysis
+| Approach | Time Complexity | Space Complexity |
+|----------|----------------|------------------|
+| **String Conversion** | `O(log n)` | `O(log n)` |
+| **Half Reversal** | `O(log n)` | `O(1)` |
+| **Full Reversal** | `O(log n)` | `O(1)` |
+
+*Note: log n represents the number of digits in the number*
+
+---
+
+## 🔧 Constraints
+- `-2³¹ <= x <= 2³¹ - 1`
+
+---
+
+## 💡 Follow-up
+**Could you solve it without converting the integer to a string?**
+
+*Answer: Yes! Use the mathematical half-reversal approach to achieve O(1) space complexity while maintaining O(log n) time complexity.*
+
+---
+
+## 🧠 Key Insights
+- **Negative numbers** are never palindromes (due to the minus sign)
+- **Numbers ending in 0** (except 0 itself) are never palindromes
+- **Single digit numbers** are always palindromes
+- **Half-reversal technique** is more efficient than full reversal
+
+---
+
+<div align="center">
+
+**💫 Happy Coding! 💫**
+
+</div>

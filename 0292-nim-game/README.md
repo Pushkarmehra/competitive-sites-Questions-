@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/nim-game/?envType=problem-list-v2&envId=nfnz3yim">292. Nim Game</a></h2><h3>Easy</h3><hr><p>You are playing the following Nim Game with your friend:</p>
+<h2><a href="https://leetcode.com/problems/nim-game">292. Nim Game</a></h2><h3>Easy</h3><hr><p>You are playing the following Nim Game with your friend:</p>
 
 <ul>
 	<li>Initially, there is a heap of stones on the table.</li>

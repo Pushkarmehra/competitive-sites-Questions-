@@ -352,3 +352,19 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 *"Always learning, always growing!"* 🚀
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0292-nim-game) |
+<!---LeetCode Topics End-->

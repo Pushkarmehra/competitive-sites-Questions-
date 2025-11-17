@@ -404,4 +404,8 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 <!---LeetCode Topics End-->

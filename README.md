@@ -419,4 +419,12 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0383-ransom-note) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

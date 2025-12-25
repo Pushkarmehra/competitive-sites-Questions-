@@ -379,6 +379,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0344-reverse-string](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0541-reverse-string-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -451,4 +452,5 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->

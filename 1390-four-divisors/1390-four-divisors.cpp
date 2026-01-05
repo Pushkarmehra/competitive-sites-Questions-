@@ -1,37 +1,38 @@
 class Solution {
 public:
     int sumFourDivisors(vector<int>& nums) {
-        int res = 0;
-        for (int n : nums) {
-            int val = sumOne(n);
-            if (val != -1) res += val;
-        }
-        return res;
-    }
+        int sum = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            int count=0;
+            int tempsum=0;
+            int j=1;
+            int root = sqrt(nums[i]);
+            while (j <= root) {
+                if (nums[i] % j ==0  ) {
+                     if (j ==  nums[i]/ j) {
+                        tempsum += j;
+                        count += 1;
+                         if (count>4){
+                        break;
+                    }
+                    } 
+                    else{
+                    tempsum += j; 
+                    tempsum += nums[i]/j;  
+                    count+=2;
+                     if (count>4){
+                        break;
+                    }
+                    }
 
-    int sumOne(int n) {
-        int p = round(cbrt(n));
-        if ((long long)p * p * p == n && isPrime(p)) {
-            return 1 + p + p*p + p*p*p;
-        }
-
-        for (int i = 2; i * i <= n; i++) {
-            if (n % i == 0) {
-                int a = i, b = n / i;
-                if (a != b && isPrime(a) && isPrime(b)) {
-                    return 1 + a + b + n;
                 }
-                return -1;
+                j++;
+            }
+
+            if (count == 4) {
+                sum += tempsum; 
             }
         }
-        return -1;
-    }
-
-    bool isPrime(int x) {
-        if (x < 2) return false;
-        for (int i = 2; i * i <= x; i++) {
-            if (x % i == 0) return false;
-        }
-        return true;
+        return sum;
     }
 };

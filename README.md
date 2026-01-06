@@ -376,6 +376,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0344-reverse-string) |
@@ -459,6 +460,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0328-odd-even-linked-list) |

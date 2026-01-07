@@ -461,6 +461,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0328-odd-even-linked-list) |

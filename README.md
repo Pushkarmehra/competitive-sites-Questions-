@@ -361,6 +361,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0231-power-of-two](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0492-construct-the-rectangle) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2288-count-operations-to-obtain-zero) |
@@ -448,6 +449,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0441-arranging-coins) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 ## Interactive
 |  |

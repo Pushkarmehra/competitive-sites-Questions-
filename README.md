@@ -358,6 +358,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
@@ -447,6 +448,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0441-arranging-coins) |

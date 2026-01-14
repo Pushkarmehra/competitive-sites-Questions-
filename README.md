@@ -364,6 +364,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0507-perfect-number) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2288-count-operations-to-obtain-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |

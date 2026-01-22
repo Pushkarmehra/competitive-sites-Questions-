@@ -361,6 +361,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0069-sqrtx](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0492-construct-the-rectangle) |
@@ -396,6 +397,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0383-ransom-note](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0482-license-key-formatting) |
@@ -417,6 +419,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0231-power-of-two](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Recursion
 |  |

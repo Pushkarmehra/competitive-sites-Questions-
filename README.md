@@ -419,6 +419,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0231-power-of-two](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Recursion
@@ -488,4 +489,8 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->

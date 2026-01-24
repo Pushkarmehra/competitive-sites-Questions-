@@ -400,6 +400,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0541-reverse-string-ii) |
 ## Simulation
@@ -493,4 +494,8 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0401-binary-watch) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

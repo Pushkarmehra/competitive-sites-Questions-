@@ -498,4 +498,20 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0459-repeated-substring-pattern) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->

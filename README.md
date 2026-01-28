@@ -393,6 +393,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0389-find-the-difference) |
@@ -431,6 +432,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0142-linked-list-cycle-ii) |
+| [0290-word-pattern](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0389-find-the-difference) |

@@ -442,12 +442,14 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0414-third-maximum-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0414-third-maximum-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |

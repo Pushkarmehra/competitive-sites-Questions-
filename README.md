@@ -408,6 +408,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0495-teemo-attacking) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3379-transformed-array) |
 ## Dynamic Programming
@@ -453,6 +454,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0414-third-maximum-number) |
+| [0495-teemo-attacking](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0495-teemo-attacking) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |

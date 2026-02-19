@@ -388,6 +388,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -404,6 +405,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0459-repeated-substring-pattern](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0696-count-binary-substrings) |
 ## Simulation
 |  |
 | ------- |

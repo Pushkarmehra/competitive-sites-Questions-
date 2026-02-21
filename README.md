@@ -366,6 +366,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0441-arranging-coins](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2288-count-operations-to-obtain-zero) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -429,6 +430,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Recursion
 |  |

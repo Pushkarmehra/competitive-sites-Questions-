@@ -421,6 +421,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0338-counting-bits](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0392-is-subsequence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -547,4 +548,8 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 <!---LeetCode Topics End-->

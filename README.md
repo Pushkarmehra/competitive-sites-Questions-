@@ -422,6 +422,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0392-is-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0392-is-subsequence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -552,4 +553,5 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->

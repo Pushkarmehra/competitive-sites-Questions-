@@ -532,11 +532,13 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -546,6 +548,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -568,4 +571,8 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->

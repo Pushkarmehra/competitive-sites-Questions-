@@ -358,6 +358,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0292-nim-game) |
@@ -466,6 +467,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0048-rotate-image) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
@@ -559,6 +561,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |

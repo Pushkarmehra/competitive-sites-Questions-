@@ -427,6 +427,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3660-jump-game-ix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3660-jump-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -484,6 +485,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3379-transformed-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3660-jump-game-ix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3660-jump-game-ix) |
 ## Counting
 |  |
 | ------- |

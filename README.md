@@ -417,6 +417,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0495-teemo-attacking) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2069-walking-robot-simulation-ii) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3379-transformed-array) |
@@ -479,6 +480,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -570,6 +572,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0048-rotate-image](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Prefix Sum
 |  |

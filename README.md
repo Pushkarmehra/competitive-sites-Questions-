@@ -427,6 +427,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0338-counting-bits](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0392-is-subsequence) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3660-jump-game-ix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3660-jump-game-ix) |
@@ -485,6 +486,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3379-transformed-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3379-transformed-array) |

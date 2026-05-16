@@ -385,6 +385,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0142-linked-list-cycle-ii) |
@@ -474,6 +475,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0048-rotate-image) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -532,6 +534,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0409-longest-palindrome) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |

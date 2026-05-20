@@ -557,23 +557,27 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -603,6 +607,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Number Theory
 |  |
 | ------- |

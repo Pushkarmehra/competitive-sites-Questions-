@@ -565,6 +565,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -572,12 +573,14 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |

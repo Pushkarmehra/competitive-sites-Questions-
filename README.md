@@ -475,6 +475,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0561-array-partition](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0561-array-partition) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Array
 |  |
@@ -497,6 +498,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -547,6 +549,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Geometry
 |  |
 | ------- |

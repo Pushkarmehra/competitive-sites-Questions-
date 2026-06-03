@@ -422,6 +422,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0566-reshape-the-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2069-walking-robot-simulation-ii) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2288-count-operations-to-obtain-zero) |
@@ -489,6 +490,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0495-teemo-attacking](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0566-reshape-the-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -600,6 +602,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0048-rotate-image](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0566-reshape-the-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |

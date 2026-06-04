@@ -465,6 +465,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0383-ransom-note](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0409-longest-palindrome) |
+| [0575-distribute-candies](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0575-distribute-candies) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sorting
 |  |
@@ -491,6 +492,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0506-relative-ranks](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0575-distribute-candies) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |

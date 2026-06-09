@@ -566,6 +566,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0572-subtree-of-another-tree) |
 ## Tree
 |  |
 | ------- |
@@ -573,6 +574,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -581,6 +583,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -595,6 +598,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0404-sum-of-left-leaves](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0572-subtree-of-another-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0572-subtree-of-another-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -634,4 +638,8 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0561-array-partition) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

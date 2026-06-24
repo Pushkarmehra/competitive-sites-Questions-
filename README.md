@@ -579,6 +579,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -589,6 +590,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0572-subtree-of-another-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -596,6 +598,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0617-merge-two-binary-trees) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -604,6 +607,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0617-merge-two-binary-trees) |
 ## Enumeration
 |  |
 | ------- |

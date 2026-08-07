@@ -502,6 +502,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0575-distribute-candies](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |

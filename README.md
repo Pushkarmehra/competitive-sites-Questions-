@@ -399,6 +399,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0680-valid-palindrome-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -484,6 +485,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0506-relative-ranks](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0905-sort-array-by-parity) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -506,6 +508,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
+| [0905-sort-array-by-parity](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0905-sort-array-by-parity) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |

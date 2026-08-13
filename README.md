@@ -429,6 +429,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0412-fizz-buzz](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0682-baseball-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2069-walking-robot-simulation-ii) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2288-count-operations-to-obtain-zero) |
@@ -508,6 +509,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0682-baseball-game) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0905-sort-array-by-parity) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -680,6 +682,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
 | ------- |

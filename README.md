@@ -477,6 +477,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sorting
 |  |
@@ -529,6 +530,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3379-transformed-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3379-transformed-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3660-jump-game-ix) |

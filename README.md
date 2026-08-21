@@ -510,6 +510,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0575-distribute-candies](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0661-image-smoother](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0682-baseball-game) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
@@ -651,6 +652,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0048-rotate-image](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0661-image-smoother) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |

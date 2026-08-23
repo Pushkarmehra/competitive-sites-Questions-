@@ -370,6 +370,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0628-maximum-product-of-three-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1390-four-divisors) |
+| [1927-sum-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1927-sum-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2288-count-operations-to-obtain-zero) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -384,6 +385,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0292-nim-game) |
+| [1927-sum-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -422,6 +424,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0696-count-binary-substrings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0696-count-binary-substrings) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1927-sum-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1927-sum-game) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Simulation
 |  |
@@ -577,6 +580,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0680-valid-palindrome-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0680-valid-palindrome-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1927-sum-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Geometry

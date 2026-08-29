@@ -446,6 +446,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0338-counting-bits](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0746-min-cost-climbing-stairs) |
 | [2054-two-best-non-overlapping-events](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2054-two-best-non-overlapping-events) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -518,6 +519,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0661-image-smoother](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0905-sort-array-by-parity) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |

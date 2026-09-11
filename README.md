@@ -425,6 +425,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0680-valid-palindrome-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0696-count-binary-substrings) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0859-buddy-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1927-sum-game) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -486,6 +487,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0859-buddy-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |

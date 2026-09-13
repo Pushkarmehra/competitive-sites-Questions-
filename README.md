@@ -407,6 +407,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0006-zigzag-conversion) |
 | [0290-word-pattern](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0383-ransom-note) |

@@ -487,6 +487,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0575-distribute-candies](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0697-degree-of-an-array) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0859-buddy-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -525,6 +526,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0661-image-smoother](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0697-degree-of-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0905-sort-array-by-parity) |

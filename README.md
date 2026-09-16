@@ -488,6 +488,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0859-buddy-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -527,6 +528,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0905-sort-array-by-parity) |
@@ -582,6 +584,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0142-linked-list-cycle-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0328-odd-even-linked-list) |
+| [0705-design-hashset](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -681,6 +684,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0705-design-hashset) |
 | [2069-walking-robot-simulation-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2069-walking-robot-simulation-ii) |
 ## Trie
 |  |
@@ -704,6 +708,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0705-design-hashset) |
 ## Stack
 |  |
 | ------- |

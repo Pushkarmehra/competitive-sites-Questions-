@@ -425,6 +425,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0657-robot-return-to-origin](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0696-count-binary-substrings) |
+| [0748-shortest-completing-word](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0859-buddy-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -489,6 +490,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0705-design-hashset) |
+| [0748-shortest-completing-word](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0859-buddy-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -530,6 +532,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [0697-degree-of-an-array](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0905-sort-array-by-parity) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/1018-binary-prefix-divisible-by-5) |

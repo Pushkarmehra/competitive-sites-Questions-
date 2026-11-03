@@ -726,4 +726,8 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->

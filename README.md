@@ -377,6 +377,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -559,6 +560,7 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3660-jump-game-ix) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
 | ------- |

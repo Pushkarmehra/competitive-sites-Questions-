@@ -731,4 +731,5 @@ Made with ❤️ by [Pushkar Mehra](https://github.com/Pushkarmehra) for the cod
 | ------- |
 | [0175-combine-two-tables](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Pushkarmehra/competitive-sites-Questions-/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
